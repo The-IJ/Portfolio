@@ -1,0 +1,96 @@
+.post1{
+    margin-left: 300px;
+    margin-right: 200px;
+}
+.col1{
+    background-color: orange;
+}
+.circle-border {
+    width: 100px; 
+    height: 80px;
+    border-radius: 50%; 
+    border: 2px solid red; 
+    overflow: hidden; 
+    float: right; 
+    margin: 10px; 
+}
+
+.circle-border img {
+    max-width: 100%; 
+}
+
+#fname{
+    width: 300px;
+}
+#lname{
+    width: 300px;
+    height: 200px;
+}
+nav{
+    color: white;
+}
+.pos3{
+    color: white;
+    padding-right: 40px;
+}
+.bottom-block {
+    background-color: orange; 
+    color: white; 
+    padding: 20px; 
+}
+.section-header {
+    font-size: 20px;
+    margin-top: 10px; 
+}
+.last-block{
+    background-color:red;
+    color:white;
+    text-align: center;
+}
+.fa {
+    padding: 5px;
+    font-size: 10px;
+    width: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+
+  }
+.fa-facebook {
+    background: orange;
+    color: white;
+    margin-left: 30px;
+  }
+.fa-twitter {
+    background: orange;
+    color: white;
+  }
+.fa-linkedin {
+    background: orange;
+    color: white;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: orange;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+.pos5{
+    margin-left: 250px;
+    border: 1px solid orange;
+    font-size: medium;
+    padding-right: 20px;
+}
+.pos6{
+    border: 1px solid orange;
+    font-size: medium;
+    padding-right:20px;
+}
+  
+  
